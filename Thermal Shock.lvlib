@@ -4,5 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="ProcessChromaloxMessage.vi" Type="VI" URL="../ProcessChromaloxMessage.vi"/>
+	<Item Name="ReadLowSetpoint.vi" Type="VI" URL="../ReadLowSetpoint.vi"/>
 	<Item Name="ReadLowTemp.vi" Type="VI" URL="../ReadLowTemp.vi"/>
 </Library>
