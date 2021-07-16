@@ -4,7 +4,15 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="ComputeChecksum.vi" Type="VI" URL="../ComputeChecksum.vi"/>
+	<Item Name="ElevatorControl.vi" Type="VI" URL="../ElevatorControl.vi"/>
+	<Item Name="FormatHexValue.vi" Type="VI" URL="../FormatHexValue.vi"/>
+	<Item Name="InitializeCOMInstrument.vi" Type="VI" URL="../InitializeCOMInstrument.vi"/>
 	<Item Name="ProcessChromaloxMessage.vi" Type="VI" URL="../ProcessChromaloxMessage.vi"/>
+	<Item Name="ReadHighSetpoint.vi" Type="VI" URL="../ReadHighSetpoint.vi"/>
+	<Item Name="ReadHighTemp.vi" Type="VI" URL="../ReadHighTemp.vi"/>
 	<Item Name="ReadLowSetpoint.vi" Type="VI" URL="../ReadLowSetpoint.vi"/>
 	<Item Name="ReadLowTemp.vi" Type="VI" URL="../ReadLowTemp.vi"/>
+	<Item Name="SetHighPoint.vi" Type="VI" URL="../SetHighPoint.vi"/>
+	<Item Name="SetLowPoint.vi" Type="VI" URL="../SetLowPoint.vi"/>
 </Library>
