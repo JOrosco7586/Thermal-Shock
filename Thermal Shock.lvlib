@@ -8,6 +8,9 @@
 	<Item Name="ElevatorControl.vi" Type="VI" URL="../ElevatorControl.vi"/>
 	<Item Name="FormatHexValue.vi" Type="VI" URL="../FormatHexValue.vi"/>
 	<Item Name="InitializeCOMInstrument.vi" Type="VI" URL="../InitializeCOMInstrument.vi"/>
+	<Item Name="InitializeParallelInstrument.vi" Type="VI" URL="../InitializeParallelInstrument.vi"/>
+	<Item Name="MoveElevatorDown.vi" Type="VI" URL="../MoveElevatorDown.vi"/>
+	<Item Name="MoveElevatorUp.vi" Type="VI" URL="../MoveElevatorUp.vi"/>
 	<Item Name="ProcessChromaloxMessage.vi" Type="VI" URL="../ProcessChromaloxMessage.vi"/>
 	<Item Name="ReadHighSetpoint.vi" Type="VI" URL="../ReadHighSetpoint.vi"/>
 	<Item Name="ReadHighTemp.vi" Type="VI" URL="../ReadHighTemp.vi"/>
