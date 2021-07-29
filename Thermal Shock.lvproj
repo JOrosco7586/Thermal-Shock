@@ -13,6 +13,7 @@
 		<Item Name="BasketDownButton.ctl" Type="VI" URL="../BasketDownButton.ctl"/>
 		<Item Name="BasketUpButton.ctl" Type="VI" URL="../BasketUpButton.ctl"/>
 		<Item Name="Input Personal Detail.vi" Type="VI" URL="../Input Personal Detail.vi"/>
+		<Item Name="SetOrigin.vi" Type="VI" URL="../SetOrigin.vi"/>
 		<Item Name="StateDef.ctl" Type="VI" URL="../StateDef.ctl"/>
 		<Item Name="Thermal Shock.lvlib" Type="Library" URL="../Thermal Shock.lvlib"/>
 		<Item Name="Thermal Shock.vi" Type="VI" URL="../Thermal Shock.vi"/>
@@ -38,6 +39,7 @@
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
+				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
